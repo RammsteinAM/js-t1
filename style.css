@@ -1,0 +1,18 @@
+html {
+  background-color: rgb(39, 39, 39);
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+tr {
+  color: white;
+}
+td {
+  padding: 5px 20px;
+}
+.almostDead{
+  color: red;
+}
